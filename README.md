@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Linux, C and C++**
 
-- 📝 I regularly write articles on [https://www.notion.so/Embedded-Linux-2f6fe73f032a80e18aa2ecc1857b04b4?source=copy_link](https://www.notion.so/Embedded-Linux-2f6fe73f032a80e18aa2ecc1857b04b4?source=copy_link) (written korean)
+- 📝 I regularly write articles on [notion page for Embedded Linux](https://www.notion.so/Embedded-Linux-2f6fe73f032a80e18aa2ecc1857b04b4?source=copy_link) (written korean)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Hyunseo Lee</h1>
-<h3 align="left">A college student studying information security</h3>
+<h3 align="left">A college student studying "Embedded Linux"</h3>
 
-- 🌱 I’m currently learning **Linux, Javascript and Flask with Python**
+- 🌱 I’m currently learning **Linux, C and C++**
 
-- 📝 I regularly write articles on [https://oqr9863.tistory.com/](https://oqr9863.tistory.com/)
+- 📝 I regularly write articles on [https://www.notion.so/Embedded-Linux-2f6fe73f032a80e18aa2ecc1857b04b4?source=copy_link](https://www.notion.so/Embedded-Linux-2f6fe73f032a80e18aa2ecc1857b04b4?source=copy_link) (written korean)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

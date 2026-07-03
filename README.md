@@ -16,8 +16,6 @@
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40"/></td>
-    <td style="background-color:white; border-radius:8px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aarch64/aarch64-original.svg" width="40" height="40"/>
-    </td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aarch64/aarch64-original.svg" width="40" height="40" style="background-color:#ffffff; padding:4px; border-radius:6px;"/></td>
   </tr>
 </table>
